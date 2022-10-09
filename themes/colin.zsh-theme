@@ -73,7 +73,7 @@ ${svn_info}\
 ${venv_info}\
  \
 %{$fg[cyan]%}\
-%D{%U%a} \
+%D{%a %V/53} \
 %{$fg[yellow]%}\
 %D{%F}\
 %{$fg[white]%}\
